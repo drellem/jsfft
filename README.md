@@ -42,3 +42,8 @@ var filtered = data.frequencyMap(function(frequency, i, n) {
 
 [DSP](https://github.com/corbanbrook/dsp.js) is a full featured Digital Signal
 Processing library in JS which includes a JS FFT implementation.
+
+
+##This Fork
+
+This fork will enhance the speed of the FFT by taking advantage of WebCL.
